@@ -1,6 +1,6 @@
-![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/cv_timeline.png)
+![CV timeline from 2022 to now. It started out with my studies in AI and Machine Learning at IT-högskolan.](assets/cv_timeline.png)
 
-# Thomas Sjostrand :man_teacher:
+# Thomas Sjostrand :man_student:
 
 ![linkedin](assets/linkedIn-icon.png)
 
